@@ -1,1 +1,3 @@
-# NSGA-II-Based-Optimization-of-Variational-Graph-Autoencoders-for-Graph-Compression
+基于NSGA-II的变分图自编码器参数优化与图压缩方法研究
+
+待补充
